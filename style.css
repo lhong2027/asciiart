@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'cupid-font';
-    src: url('fonts/cupid-font.otf') format('opentype');
+    src: url('./fonts/cupid-font.otf') format('opentype');
 }
 
 body {
